@@ -1,9 +1,9 @@
 
 
-// const Features = () => {
-//   return (
-//     <section>Features.</section>
-//   )
-// }
+const Features = () => {
+  return (
+    <section>Features.</section>
+  )
+}
 
-// export default Features
+export default Features
