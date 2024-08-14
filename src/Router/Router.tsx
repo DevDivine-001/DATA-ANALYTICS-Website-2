@@ -9,13 +9,13 @@ export const Router = createBrowserRouter([
         path:"/",
         element: <LayOut/>,
         children:[
-    //          {
-    //     path:"/",
+             {
+        path:"/",
      
-    //     element:<LandingPage/>,
+        element:<LandingPage/>,
         
 
-    // },
+    },
     {
 
     },
