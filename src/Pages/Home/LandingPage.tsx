@@ -1,9 +1,14 @@
+// import Features from "./Features."
+// import Hero from "./Hero"
 
 
-const LandingPage = () => {
-  return (
-    <div>LandingPage</div>
-  )
-}
+// const LandingPage = () => {
+//   return (
+//     <div>
+//         <Hero/>
+//         <Features/>
+//     </div>
+//   )
+// }
 
-export default LandingPage
+// export default LandingPage
