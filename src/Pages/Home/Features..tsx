@@ -93,7 +93,7 @@ const Features = () => {
 
                     <div>
                         <h3 className="hidden mb-4 text-lg font-bold md:block">
-                              Advanced built-in reports
+                               Everything need in pace
                         </h3>
                         <p className="text-darkGrayishBlue">
                           Stop jumping from one service

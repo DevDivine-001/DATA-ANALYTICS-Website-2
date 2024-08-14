@@ -2,7 +2,7 @@ import img from "../../assets/react.svg"
 
 const Header = () => {
   return (
-    <header className="container mx-auto p-6 top-0 sticky bg-[red]">
+    <header className="container mx-auto p-6 top-0 sticky">
         <nav className="flex items-center justify-between">
             {/* Logo */}
             <div className="pt-2">
