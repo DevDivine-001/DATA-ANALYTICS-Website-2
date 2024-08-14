@@ -51,7 +51,7 @@ const Testimonials = () => {
                     
                 </div>
            
-                <div className="w-full h-[2vh] flex justify-center items-center">
+                <div className="w-full h-[12vh] flex justify-center items-center">
                     <a href="" className="p-3 px-6 pt-2 text-white bg-brightRed rounded-full baseline hover:bg-brightRedLight hidden md:block  justify-center items-center">Get Started</a>
                 </div>
         </div>
